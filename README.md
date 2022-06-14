@@ -1,5 +1,9 @@
 # Commands used for data extraction
 For the extraction of the data specific to my script and research several commands and techniques were needed.
+There are two scripts: *script.py* and *script2.py*. Script.py has the input of two files: before_georgefloyd.txt and after_georgefloyd.txt, with the purpose of getting the output of how many mentions of BLM there are BEFORE the incident and how many there are AFTER the incident.
+
+The second script, script2.py, has the input of one file that represents one individual day such as: 28.txt which represents tweets from the 28th of May. The output of this is the number of mentions on that particular day, this is necessary data for plotting a graph which showcases the day-to-day increase or decrease of the BLM mention in the period BEFORE and AFTER the incident which ranges from the 18th of May up until the 31st of May.
+
 The process will be explained underneath, please read carefully. 
 
 # First Script Information Extraction Commands (script.py):
